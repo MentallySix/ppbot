@@ -272,6 +272,9 @@ class Economy(vbu.Cog):
                 if not random.randint(0, 3): # haha no inches for you
                     if p.values[0] == 'BRIDGE':
                         quote = random.choice([
+                            'I would donate to you but , I do not have any inches'
+                     
+                           
                             'Ew poor person, step away from me please. I need to wash my hands now',
                             'Don\'t touch my pp you freak, what do think you\'re doing???',
                             'My wife has a bigger pp than you I\'m not giving you shit',
